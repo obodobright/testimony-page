@@ -15,8 +15,8 @@ import "./App.css";
 
 //import  Component from './GF/component'
 
-// import Pages from './firstproject/pages'
-import Time from "./clock/time";
+import Pages from './firstproject/pages'
+// import Time from "./clock/time";
 
 function App() {
   
@@ -29,7 +29,7 @@ function App() {
           <UserItem />
         </div>
       </div> */}
-      <Time />
+      <Pages />
       {/* <Pages /> */}
       {/* <Component /> */}
     </React.Fragment>
